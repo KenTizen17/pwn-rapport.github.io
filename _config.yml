@@ -12,7 +12,7 @@ title                    : "Rapport"
 title_separator          : "-"
 name                     : &name "Ken TIZEN DJONGUE"
 description              : &description "personal description"
-url                      : https://kentizen17.github.io/pwn-rapport.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://kentizen17.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
